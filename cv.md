@@ -13,14 +13,16 @@ I have learned a lot over the last 10 years: from carpentry to transport managem
 
 ## Skills
 - HTML
-- CSS/SASS
+- CSS
+- SASS
 - JavaScript (Basic)
+- Node.js (Basic)
 - GitHub
 - VS Code
+- BEM
 - Photoshop
 - Figma
 - Illustrator
-- Adobe Premiere Pro
 
 ## Code Example
 ```javascript
