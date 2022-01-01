@@ -99,3 +99,12 @@ fill="#fff" stroke="none" >
 -458z"/>
 </g>
   </symbol>
+
+    <symbol id="projects" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+    <g>
+      <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1000 1000" enable-background="new 0 0 1000 1000" xml:space="preserve">
+<metadata> Svg Vector Icons : http://www.onlinewebfonts.com/icon </metadata>
+<g><path d="M562,293.3H355.3v412.1h289.4V354H562L562,293.3L562,293.3z M417.3,665.4h-20.7v-20.7h20.7V665.4z M417.3,603.3h-20.7v-20.7h20.7V603.3z M417.3,541.3h-20.7v-20.7h20.7V541.3z M417.3,479.3h-20.7v-20.7h20.7V479.3z M417.3,417.3h-20.7v-20.7h20.7V417.3z M603.3,665.4H438v-20.7h165.3V665.4L603.3,665.4z M603.3,603.3H438v-20.7h165.3V603.3L603.3,603.3z M603.3,541.3H438v-20.7h165.3V541.3L603.3,541.3z M603.3,479.3H438v-20.7h165.3V479.3L603.3,479.3z M603.3,396.7v20.7H438v-20.7H603.3z"/><path d="M500,10C229.4,10,10,229.4,10,500c0,270.6,219.4,490,490,490c270.6,0,490-219.4,490-490C990,229.4,770.6,10,500,10z M686,748H314V252h288.1l84,82.7V748z"/></g>
+</svg> 
+    </g>
+  </symbol>
