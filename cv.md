@@ -16,13 +16,9 @@ I have learned a lot over the last 10 years: from carpentry to transport managem
 - CSS
 - SASS
 - JavaScript (Basic)
-- Node.js (Basic)
 - GitHub
-- VS Code
 - BEM
-- Photoshop
 - Figma
-- Illustrator
 
 ## Code Example
 ```javascript
@@ -38,11 +34,8 @@ console.log(result);
 ## Education
 - Belarusian National Technical University, a bachelor degree in engineering/management
 - Courses:
-	- Unschooler (HTML/CSS)
-	- Glo Academy (HTML/CSS/SASS/JS/Figma)
-	- HTML Academy (HTML/CSS)
-	- IT Step (Photoshop/Illustrator)
+	- The Rolling Scope School (HTML, CSS, JS, GIT)
 	- Self-education (books/articles/movies)
 
 ## English
-- **A1** (My wife is a polyglot and she teaches me English)
+- **A1** (My wife is a polyglot and she teaches me English, so I'm going to have A2 level soon)
