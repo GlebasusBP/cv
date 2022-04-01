@@ -38,4 +38,4 @@ console.log(result);
 	- Self-education (books/articles/movies)
 
 ## English
-- **A1** (My wife is a polyglot and she teaches me English, so I'm going to have A2 level soon)
+- **A2**
